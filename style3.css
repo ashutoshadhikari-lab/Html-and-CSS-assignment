@@ -1,0 +1,21 @@
+/* Font family for the entire page */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Heading: color, size, and center alignment */
+h1 {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+/* Paragraph line-height */
+p {
+    line-height: 1.6;
+}
+
+/* Class to style the skills list */
+.skills-list {
+    background-color: lightgray;
+}

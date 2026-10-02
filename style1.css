@@ -1,0 +1,12 @@
+/* External CSS */
+.prog {
+    background-color: white;
+}
+
+.desc {
+    color: darkgreen;
+    font-size: 16px;
+}
+#student-id {
+    font-weight: bold;
+}
